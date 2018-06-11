@@ -1,5 +1,5 @@
-@import url("https://nightbloo.github.io/plug/badges.css");
-@import url("https://nightbloo.github.io/plug/vip.css");
+@import url("https://nb3-music.github.io/badges.css");
+@import url("https://nb3-music.github.io/vip.css");
 
 /* ----------------------------------------Main---------------------------------------- */
 #room .app-header,
@@ -49,6 +49,7 @@ div.message > div.msg > div.from > span.un {
     background-position: center center;
 }
 
+/* Not working with new plug UI. They were a little cheesy, anyways.
 #woot i.icon {
     background-image: url("https://nightbloo.github.io/plug/icons/woot.png");
 }
@@ -60,6 +61,7 @@ div.message > div.msg > div.from > span.un {
 #meh i.icon {
     background-image: url("https://nightbloo.github.io/plug/icons/meh.png");
 }
+*/
 
 /* ----------------------------------------Chat---------------------------------------- */
 #chat .welcome {
