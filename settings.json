@@ -1,0 +1,60 @@
+{
+	"room": "NB3's Community",
+	"author": "Laquett",
+	"icon": "https://nightbloo.github.io/plug/icons/room.png",
+	"css": "https://nightbloo.github.io/plug/main.css",
+	"rules": {
+		"allowAutorespond": false,
+		"allowAutowoot": true,
+		"allowAutojoin": false,
+		"allowAutograb": true,
+		"allowSmartVote": true,
+		"allowEmotes": true,
+		"allowShowingMehs": false,
+		"forceSmartVote": false
+	},
+	"ccc": {
+		"admin": null,
+		"ambassador": null,
+		"host": "#F2693E",
+		"cohost": "#CC3333",
+		"manager": "#9552cc",
+		"bouncer": "#3083FF",
+		"rdj": "#33CCFF",
+		"subscriber": null,
+		"friend": null,
+		"user": null
+	},
+	"images": {
+		"background": "https://nightbloo.github.io/plug/background/nb3DJ7.jpg",
+		"playback": "https://nightbloo.github.io/plug/background/nb3DJvideo.png",
+		"admin": null,
+		"ambassador": null,
+		"host": "https://nightbloo.github.io/plug/icons/host.png",
+		"cohost": "https://nightbloo.github.io/plug/icons/co-host.png",
+		"manager": "https://nightbloo.github.io/plug/icons/manager.png",
+		"bouncer": "https://nightbloo.github.io/plug/icons/bouncer.png",
+		"rdj": "https://nightbloo.github.io/plug/icons/rdj.png",
+		"subscriber": null,
+		"other": null
+	},
+	"emotes": {
+		"dankpls": "https://nightbloo.github.io/plug/custom-emotes/dankpls.png",
+		"dankwithit": "https://nightbloo.github.io/plug/custom-emotes/dankwithit.gif",
+		"domcry": "https://nightbloo.github.io/plug/custom-emotes/domCry.png",
+		"domevil": "https://nightbloo.github.io/plug/custom-emotes/domEvil.png",
+		"domlove": "https://nightbloo.github.io/plug/custom-emotes/domLove.png",
+		"domrage": "https://nightbloo.github.io/plug/custom-emotes/domRage.png",
+		"domragel": "https://nightbloo.github.io/plug/custom-emotes/domRageL.png",
+		"feelsbirthdayman": "https://nightbloo.github.io/plug/custom-emotes/feelsbirthdayman.png",
+		"feelsbirthdaymatt": "https://nightbloo.github.io/plug/custom-emotes/feelsbirthdaymatt.png",
+		"feelsfuckyouman": "https://nightbloo.github.io/plug/custom-emotes/feelsfuckyouman.png",
+		"freshprincedance": "https://nightbloo.github.io/plug/custom-emotes/freshprincedance.gif",
+		"heygasm": "https://nightbloo.github.io/plug/custom-emotes/heygasm.png",
+		"lolidance": "https://nightbloo.github.io/plug/custom-emotes/loliDance.gif",
+		"pepepls": "https://nightbloo.github.io/plug/custom-emotes/PepePls.gif",
+		"roohey": "https://nightbloo.github.io/plug/custom-emotes/rooHey.png",
+		"russiandance": "https://nightbloo.github.io/plug/custom-emotes/russiandance.gif",
+		"toucanbrushy": "https://nightbloo.github.io/plug/custom-emotes/toucanbrushy.gif"
+	}
+}
