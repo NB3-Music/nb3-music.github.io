@@ -16,6 +16,11 @@
     content: ' / VIP';
 }
 
+/* APurpleOnix */
+#user-rollover.id-26600442 .info .role span:after {
+    content: ' / Pokémon';
+}
+
 /* Laquett */
 #user-rollover.id-4093788 .info .role span:after {
     content: ' / Pony';
