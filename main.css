@@ -292,7 +292,7 @@ div.message > div.msg > div.from > span.un {
 
 #user-rollover.id-26600442 .username:hover,
 #chat [data-cid^="26600442-"] span.un.clickable:hover {
-    animation: purple 10s infinite;
+    animation: purple 8s infinite;
 }
 
 /* -------------------------------------Animations------------------------------------- */
