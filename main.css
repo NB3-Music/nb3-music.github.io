@@ -290,6 +290,11 @@ div.message > div.msg > div.from > span.un {
     animation: rainbow 10s infinite;
 }
 
+#user-rollover.id-26600442 .username:hover,
+#chat [data-cid^="26600442-"] span.un.clickable:hover {
+    animation: purple 10s infinite;
+}
+
 /* -------------------------------------Animations------------------------------------- */
 /* Chat Fade */
 @keyframes fadein
@@ -322,7 +327,7 @@ div.message > div.msg > div.from > span.un {
     to { opacity: 1; };
 }
 
-/* Chat Custom */
+/* Custom */
 @keyframes rainbow {
     0% { color: #ff0000; }
     10% { color: #ff8000; }
@@ -335,4 +340,11 @@ div.message > div.msg > div.from > span.un {
     80% { color: #0000ff; }
     90% { color: #8000ff; }
     100% { color: #ff0080; }
+}
+
+@keyframes purple {
+    0% { color: #CC3333; }
+    30% { color: #880099; }
+    70% { color: #880099; }
+    100% { color: #CC3333; }
 }
